@@ -1,0 +1,3 @@
+﻿  ConfigurationFile.cpp
+f:\study\配置文件\configurationfile\configurationfile\configurationfile.cpp(102): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+  ConfigurationFile.vcxproj -> F:\study\配置文件\ConfigurationFile\Debug\ConfigurationFile.exe
